@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "posterous",
+    "captured_at": "2026-10-11T191635",
+    "source_url": "http://posterous.com/",
+    "source_type": "Website",
+    "file": "posterous-2026-10-11T191635.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
